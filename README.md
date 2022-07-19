@@ -1,6 +1,6 @@
 - mily/minna, any idc
 - mily #2414 on discord
-- interested in python, java, and javascript :D
+- interested in python, swift, html, css, java, and javascript :D
 - lets do something great （＾∇＾）
 
 <!---
