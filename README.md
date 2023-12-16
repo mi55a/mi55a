@@ -1,4 +1,4 @@
-- mily/minna, any idc
+- mily/minna
 - mily #2414 on discord
 - interested in python, swift, html, css, java, and javascript :D
 - lets do something great （＾∇＾）
