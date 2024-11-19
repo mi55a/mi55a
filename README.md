@@ -1,4 +1,4 @@
-- My name is Mily (I also go by Minna) and I'm a student at the College of DuPage, hoping to transfer to UIC or UIUC for computer science and linguistics.
+- My name is Mily (I also go by Minna) and I'm a student and peer tutor at the College of DuPage, hoping to transfer to UIC or UIUC for computer science and linguistics.
 - You can contact me on Discord (mily2414) or by email (milyzoldyck234@gmail.com)
 - I work with Python, C++, and Swift!
 - I speak English, Spanish, and German!
