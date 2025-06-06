@@ -3,7 +3,7 @@
 - You can contact me on Discord (mily2414) or by email (milyzoldyck234@gmail.com or milymendez678@gmail.com)
 - I work with Python, C++, and Swift!
 - I speak English, Spanish, and German!
-- My interests include artificial intelligence, machine learning, and computational linguistics.
+- My interests include artificial intelligence, machine learning, and computational linguistics and physics.
 
 <!---
 mi55a/mi55a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
