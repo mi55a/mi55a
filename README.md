@@ -1,5 +1,5 @@
-- My name is Mily (I also go by Minna) and I'm a student at the College of DuPage, hoping to transfer to UIC for computer science.
-- This summer, I'm currently interning at Fermilab and developing a GUI for a Magnetometer (as well as some other stuff!). 
+- My name is Mily (I also go by Minna) and I'm a student at the College of DuPage, transferring to UIC for computer science this spring!
+- This summer, I interned at Fermilab to develop and design a GUI for acquiring data from the MAGIS-100 Magnetometer trolley system. This fall, I'm continuing my work at Fermilab and doing other cool thing ;)
 - You can contact me on Discord (mily2414) or by email (milyzoldyck234@gmail.com or milymendez678@gmail.com)
 - I work with Python, C++, and Swift!
 - I speak English, Spanish, and German!
