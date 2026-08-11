@@ -3,7 +3,7 @@
 
 <p>Last summer and fall, I interned at Fermilab and developed a user-interface to assist with acquiring data from the MAGIS-100 magnetometer trolley system. From that experience, I learned that I really like simplifying workflows and tasks. Unfortunately, I can't share the code of Maggy (yes, my interface has a name!) with you. </p>
 
-<p>This summer, I will be working as a Peer Mentor in Argonne National Laboratory's Intro to High Performance Computing Bootcamp</p>
+<p>This summer, I've been working as a web designer & developer for a small business in Chicago! This August, I will be working as a Peer Mentor in Argonne National Laboratory's Intro to High Performance Computing Bootcamp for Project 5: <b>Building a Reproducible GPU Workflow Simulation and Analysis for Particle Physics</b>.</p>
 
 ### My Projects
 
