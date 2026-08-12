@@ -11,7 +11,7 @@
 | Project Name | Tech Stack | Description | Live Demo |
 | :--- | :--- | :--- | :--- |
 | **Community Hub** |  Next.js, TypeScript, Tailwind CSS, Neon Postgres| A community platform where people can share posts, organize events, and collect resources.| [GitHub Repo](https://github.com/mi55a/buildlab-group-2) |
-| **Maggy** | Python, Tkinter | A user-interface for acquiring magnetometer data. | [View Project Poster](https://lss.fnal.gov/archive/2025/poster/fermilab-poster-25-0105-student.pdf) |
+| **Maggy** | Python, Tkinter | A user-interface for acquiring magnetometer data. Created for the MAGIS-100 experiment. | [View Project Poster](https://lss.fnal.gov/archive/2025/poster/fermilab-poster-25-0105-student.pdf) |
 | **Brainrot Chrome Extension** | HTML, CSS, Javascript | Chrome extension that transforms your tab into a brainrot wonderland. | [GitHub Repo](https://github.com/zkhan04/brainrot) |
 | **Taylor Swift Song Classification** | Python, Scikit-learn, Pandas, NumPy, Spotify API | Random forest classification model that predicts the "hit" status of Taylor Swift's songs (up to Midnights) | [Github Link](https://github.com/mi55a/aiMLStuff/blob/main/randomForestTaylorSwiftData.py) |
 
