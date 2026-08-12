@@ -1,7 +1,7 @@
 ### Hello!
 <p>I'm Milagros (Mily) Mendez, an undergraduate at UIC studying Computer Science and Germanic Studies. My interest in computers started from the moment I used MS Paint on my uncle's old laptop. Since then, I've been bound to the world of computer science. I did robotics and competitive programming in high school, which has led me to my current position: studying computer science in university.</p>
 
-<p>Last summer and fall, I interned at Fermilab and developed a user-interface to assist with acquiring data from the MAGIS-100 magnetometer trolley system. From that experience, I learned that I really like simplifying workflows and tasks. Unfortunately, I can't share the code of Maggy (yes, my interface has a name!) with you. </p>
+<p>Last summer and fall, I interned at Fermilab and developed a user-interface to assist with acquiring data from a magnetometer trolley system for the MAGIS-100. From that experience, I learned that I really like simplifying workflows and tasks (and advancing science!!!). Unfortunately, I can't share the code of Maggy (yes, my interface has a name) with you. If you want more information, please read my poster and/or paper. Any questions? Do email me, I'd be happy to answer your question.</p>
 
 <p>This summer, I've been working as a web designer & developer for a small business in Chicago! This August, I will be working as a Peer Mentor in Argonne National Laboratory's Intro to High Performance Computing Bootcamp for Project 5: <b>Building a Reproducible GPU Workflow Simulation and Analysis for Particle Physics</b>.</p>
 
