@@ -3,7 +3,9 @@
 
 <p>Last summer and fall, I interned at Fermilab and developed a user-interface to assist with acquiring data from a magnetometer trolley system for the MAGIS-100. From that experience, I learned that I really like simplifying workflows and tasks (and advancing science!!!). Unfortunately, I can't share the code of Maggy (yes, my interface has a name) with you. If you want more information, please read my poster and/or paper. Any questions? Do email me, I'd be happy to answer your question.</p>
 
-<p>This summer, I've been working as a web designer & developer for a small business in Chicago! This August, I will be working as a Peer Mentor in Argonne National Laboratory's Intro to High Performance Computing Bootcamp for Project 5: <b>Building a Reproducible GPU Workflow Simulation and Analysis for Particle Physics</b>.</p>
+<p>This summer, I worked as a web designer & developer for a small business in Chicago! This August, I worked as a Peer Mentor in Argonne National Laboratory's Intro to High Performance Computing Bootcamp for Project 5: <b>Building a Reproducible GPU Workflow Simulation and Analysis for Particle Physics</b>.</p>
+
+<p>I'm currently in the search of internships in software engineering/development and any CS field. Contact me by email, which is linked on my profile :D</p>
 
 ### My Projects
 
