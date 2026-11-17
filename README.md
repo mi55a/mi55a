@@ -5,7 +5,7 @@
 
 <p>This summer, I worked as a web designer & developer for a small business in Chicago! This August, I worked as a Peer Mentor in Argonne National Laboratory's Intro to High Performance Computing Bootcamp for Project 5: <b>Building a Reproducible GPU Workflow Simulation and Analysis for Particle Physics</b>.</p>
 
-<p>I'm currently in the search of internships in software engineering/development and any CS field. Contact me by email, which is linked on my profile :D</p>
+<p>Next summer, I will be interning at Northern Trust as a Software Engineering Intern in Chicago, IL! </p>
 
 ### My Projects
 
